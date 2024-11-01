@@ -12,6 +12,12 @@ I am on the 2024-2025 Ph.D. Finance Job Market, with an expected graduation date
 
 My research interests lie primarily in the area of empirical asset pricing and asset management with machine learning and big data methods. 
 
+Education
+======
+* Ph.D in FinTech, HKUST, 2025 (expected)
+* M.S. in Industrial Engineering and Logistics Management (IELM), Financial Engineering Track, HKU, 2016
+* B.S. in Automation (Control Science), Zhejiang University (ZJU), 2012
+  
 Contact
 ======
 Email: clyuaj@connect.ust.hk

@@ -9,7 +9,7 @@ redirect_from:
 I am currently a fifth-year Ph.D. candidate in FinTech at Hong Kong University of Science and Technology (HKUST), supervised by Prof. Jialin Yu and Prof. Yingying Li. I am on the 2024-2025 Ph.D. Finance Job Market, with an expected graduation date of May 2025.
 
 My research interests lie primarily in the area of empirical asset pricing and asset management with machine learning and big data methods. <! -- Specifically, I examine the transmission of information among capital market participants, such as managers, infomediaries, and investors, as well as the transmission of information among the workforce within firms.
-I use archival methods to examine issues related to finance. 
+I use archival methods to examine issues related to finance. -->
 
 A data-driven personal website
 ======

@@ -6,10 +6,6 @@ author_profile: true
 ---
 <b><u>JOB MARKET PAPER</u></b><br/>
 
-**Stock Co-jump Networks with Mixed Membership**
-
-
-<p style='text-align: justify;'>Abstract: Empirically, we find that the purity of individual stocks has a strictly monotonic relationship with both volatility and the Sharpe ratio, and the peer momentum defined by the mixed membership has a stronger network momentum effect.</p><br/>
 
 
 

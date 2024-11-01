@@ -6,7 +6,7 @@ author_profile: true
 ---
 <b><u>JOB MARKET PAPER</u></b><br/>
 
-**Stock Co-jump Networks with Mixed Membership**\
+**Stock Co-jump Networks with Mixed Membership**
 
 
 <p style='text-align: justify;'>Abstract: Empirically, we find that the purity of individual stocks has a strictly monotonic relationship with both volatility and the Sharpe ratio, and the peer momentum defined by the mixed membership has a stronger network momentum effect.</p><br/>
@@ -17,7 +17,7 @@ author_profile: true
 
 **How to Dominate the Historical Average**\
 *- with with Yingying Li, Kai Li and Jialin Yu, 2024, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245306)*\
-*- [Review of Financial Studies, forthcoming]*\
+*- [Review of Financial Studies, forthcoming]*
 
 
 <p style='text-align: justify;'>Abstract: We present a novel methodology for the out-of-sample forecast of the equity premium. Our approach matches the stability of the historical average while conservatively utilizing a predictor’s capacity to improve forecast accuracy. We demonstrate that, theoretically and empirically, our method dominates the historical average in forecast performance. Our methodology establishes a simple yet powerful paradigm for exploiting the real-time equity premium predictability derived from a predictor. Applications of our method reveal that many predictors can forecast the equity premium, and that parameter estimates in previous studies add value to out-of-sample forecasts. </p><br/>

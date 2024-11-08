@@ -22,9 +22,9 @@ author_profile: true
 
 <b><u>WORKING IN PROGRESS</u></b><br/>
 
-**Jumps, Overnight returns, Intraday Momentum, and Future Stock Returns**\
-**Pay for Environment**\
+**-Jumps, Overnight returns, Intraday Momentum, and Future Stock Returns**\
+**-Pay for Environment**\
 *- with Arthur Morris and Ruichao Zhu*\
-**Non-financial Incentives, Production Efficiency, and Pricing Firm’s Green Actions**\
+**-Non-financial Incentives, Production Efficiency, and Pricing Firm’s Green Actions**\
 
 

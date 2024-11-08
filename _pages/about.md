@@ -15,8 +15,9 @@ My research interests lie primarily in empirical asset pricing and asset managem
 Education
 ======
 * Ph.D in FinTech, HKUST, 2025 (expected)
-* M.S. in Industrial Engineering and Logistics Management (IELM), Financial Engineering Track, HKU, 2016
-* B.S. in Automation (Control Science), Zhejiang University (ZJU), 2012
+* MSc in Financial Engineering, CUHK(SZ), 2017
+* M.S. in IELM, Financial Engineering Track, HKU, 2016
+* B.S. in Automation (Control Science), Zhejiang University (ZJU), 2015
   
 Contact
 ======

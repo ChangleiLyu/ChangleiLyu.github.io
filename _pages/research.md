@@ -12,7 +12,7 @@ author_profile: true
 <b><u>PUBLICATIONS</u></b><br/>
 
 **How to Dominate the Historical Average**\
-*- with Yingying Li, Kai Li and Jialin Yu, 2024, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245306)*
+*- with Yingying Li, Kai Li and Jialin Yu, 2024, [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245306)*\
 *- [Review of Financial Studies, forthcoming]*
 
 

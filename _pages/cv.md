@@ -3,7 +3,7 @@ layout: archive
 title: "Changlei Lyu"
 permalink: /cv/
 author_profile: true
-redirect_from: https://github.com/ChangleiLyu/ChangleiLyu.github.io/blob/master/_pages/CV%20of%20Changlei%20LYU.pdf
+redirect_from: https://ChangleiLyu.github.io/_pages/CV of Changlei LYU.pdf
 
 ---
 

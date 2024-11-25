@@ -15,4 +15,4 @@ Education
 * M.S. in IELM, Financial Engineering Track, HKU, 2016
 * B.S. in Automation (Control Science), Zhejiang University (ZJU), 2015
 
-[Curriculum Vitae](https://ChangleiLyu.github.io/_pages/CV_of_Changlei_LYU.pdf) *(Last Update: Nov. 2024)* 
+[Curriculum Vitae](https://ChangleiLyu.github.io/_pages/CV of Changlei LYU.pdf) *(Last Update: Nov. 2024)* 
